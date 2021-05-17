@@ -1,0 +1,24 @@
+.rental-desc {
+    height: 3rem;
+    overflow: hidden;
+}
+.rental-card {
+    margin-bottom: 5px;
+}
+
+.rental-footer,
+.card-title-custom {
+    display: flex;
+    justify-content: space-between;
+}
+.card-title-custom .price {
+    color: green;
+    border: 1px solid green;
+    padding: 2px;
+    border-radius: 5px;
+}
+.rental-footer .bedroom {
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid lightgray;
+}
